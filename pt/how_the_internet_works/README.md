@@ -1,14 +1,14 @@
 # Como funciona a internet
 
-> Este capítulo é inspirado na palestra "Como a Internet funciona" de Jessica McKellar (http://web.mit.edu/jesstess/www/).
+> Este capítulo é inspirado na palestra "Como funciona a Internet" de Jessica McKellar (http://web.mit.edu/jesstess/www/).
 
-Apostamos que você usa a Internet todos os dias. Mas você sabe realmente o que acontece quando você digita um endereço como https://djangogirls.org em seu navegador e pressiona `Enter`?
+Apostamos que você usa a Internet todos os dias. Mas você realmente sabe o que acontece quando você digita um endereço como https://djangogirls.org em seu navegador e pressiona `Enter`?
 
 A primeira coisa que você precisa entender é que um site é só um monte de arquivos salvos em um disco rígido. Assim como acontece com os filmes, músicas ou fotos que você tem no computador. No entanto, existe uma parte que é exclusiva para sites: essa parte inclui código de computador chamado HTML.
 
 Se você não estiver familiarizada com programação, pode ser difícil compreender o HTML no começo, mas seu navegador web (como o Chrome, Safari, Firefox, etc) ama ele. Navegadores web são projetados para entender esse código, seguir suas instruções e apresentar todos esses arquivos de que seu site é feito, exatamente do jeito que você quer que eles sejam apresentados.
 
-Então, igual a todos os outros arquivos, os arquivos HTML precisam ser armazenados em um disco rígido. Para a internet, nós usamos especiais e poderosos computadores chamados de *servidores*. Eles não têm tela, mouse ou teclado, porque sua finalidade principal é armazenar dados e servi-los. É por isso que eles são chamados de *servidores*..--porque eles *servem*, a você, dados.
+Então, igual a todos os outros arquivos, os arquivos HTML precisam ser armazenados em um disco rígido. Para a internet, nós usamos especiais e poderosos computadores chamados *servidores*. Eles não tem tela, mouse ou teclado, porque sua finalidade principal é armazenar dados e servi-los. É por isso que eles são chamados de *servidores*..--porque eles *servem*, a você, dados.
 
 OK, mas você quer saber com o quê a internet se parece, certo?
 
@@ -26,7 +26,7 @@ O que parece com isso:
 
 ![Figura 1.3](images/internet_2.png)
 
-Imagine que, quando você digita https://djangogirls.org, você envia uma carta que diz: "Queridas djangoGirls.org, eu desejo ver o site da Django Girls. Envie pra mim, por favor!"
+Imagine que, quando você digita https://djangogirls.org, você envia uma carta que diz: "Queridas djangogirls.org, eu desejo ver o site da Django Girls. Envie pra mim, por favor!"
 
 Sua carta vai para a agência dos correios mais próxima de você. Depois vai para outra que é um pouco mais perto de seu destinatário, depois para outra e outra, até que ela seja entregue ao seu destino. A única diferença é que, se você enviar muitas cartas (*pacotes de dados*) para o mesmo lugar, cada carta pode passar por diferentes agências de correios (*roteadores*). Isso depende de como elas são distribuídas em cada agência.
 
@@ -40,6 +40,6 @@ Quando você envia uma carta, ela precisa ter certas características para ser e
 
 Então, basicamente, quando você tem um site, você precisa ter um *servidor* (máquina) onde ele fica hospedado. O *servidor* está à espera de quaisquer *requisições* recebidas (cartas que solicitam ao servidor o envio do seu site) e ele envia de volta seu site (em outra carta).
 
-Como este é um tutorial de Django, você vai perguntar o que o Django faz. Quando você envia uma resposta, nem sempre você quer enviar a mesma coisa para todo mundo. Será muito melhor se suas cartas forem personalizadas, especialmente para a pessoa que acabou de escrever para você, certo? O Django ajuda você a criar essas personalizadas e interessantes cartas. :)
+Como este é um tutorial de Django, você deve estar se perguntando o que o Django faz. Quando você envia uma resposta, nem sempre você quer enviar a mesma coisa para todo mundo. Será muito melhor se suas cartas forem personalizadas, especialmente para a pessoa que acabou de escrever para você, certo? O Django ajuda você a fazer com que essas cartas sejam personalizadas e interessantes. :)
 
 Chega de falar, é hora de criar!
