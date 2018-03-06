@@ -54,7 +54,7 @@ Uau! <3 <3
 
 ## Introdução
 
-Você já sentiu como se o mundo fosse cada vez mais tecnológico e que de alguma forma você tenha ficado pra trás? Você já imaginou como seria criar um website mas nunca teve motivação suficiente para começar? Você já pensou que o mundo do software é complicado demais até mesmo para você tentar fazer alguma coisa sozinha?
+Você já sentiu como se o mundo fosse cada vez mais tecnológico e que de alguma forma você ficou para trás? Você já imaginou como seria criar um website, mas nunca teve motivação suficiente para começar? Você já pensou que o mundo do software é complicado demais até mesmo para você tentar fazer alguma coisa sozinha?
 
 Bem, nós temos boas notícias para você! Programação não é tão difícil quanto parece e nós queremos te mostrar o quão divertido pode ser.
 
@@ -87,7 +87,7 @@ Este tutorial é mantido por [DjangoGirls][4]. Se você encontrar quaisquer erro
 
 ## Gostaria de nos ajudar a traduzir o tutorial para outros idiomas?
 
-no momento, as traduções estão sendo mantidas na plataforma crowdin.com em:
+No momento, as traduções estão sendo mantidas na plataforma crowdin.com:
 
 https://crowdin.com/project/django-girls-tutorial
 
